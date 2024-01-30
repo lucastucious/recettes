@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "ingrédients": "multitext",
+    "prep-time": "number",
+    "personnes": "number",
+    "cook-time": "number"
+  }
+}
